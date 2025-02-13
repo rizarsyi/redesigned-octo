@@ -2,7 +2,7 @@
     "cedar_version": "4.2.2",
     "policy_stores": {
         "5e8755135cdbb264107e041a0b7e3447b515220d39e8": {
-            "name": "testStoreUpdate",
+            "name": "testStore",
             "description": "",
             "policies": {},
             "trusted_issuers": {},
